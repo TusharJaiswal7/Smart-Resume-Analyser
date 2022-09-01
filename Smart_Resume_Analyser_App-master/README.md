@@ -3,8 +3,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
 
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
@@ -36,7 +34,7 @@
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-- Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
+- Admin side credentials is `Tushar` and password is `Jaiswal`. 
 
 ## Screenshots
 
@@ -44,10 +42,6 @@
 <img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
 
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
-
+<img src="https://github.com/TusharJaiswal7/Smart_Resume_Analyser_App/blob/master/sc2.png">
 
 ## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
