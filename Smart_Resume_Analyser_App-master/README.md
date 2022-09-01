@@ -42,6 +42,8 @@
 <img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
 
 ## Admin Side
+<img src="https://github.com/TusharJaiswal7/Smart-Resume-Analyser/blob/main/Smart_Resume_Analyser_App-master/Screenshot%20(2228).png">
+<img src="https://github.com/TusharJaiswal7/Smart-Resume-Analyser/blob/main/Smart_Resume_Analyser_App-master/Screenshot%20(2229).png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
